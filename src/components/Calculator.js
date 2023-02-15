@@ -1,3 +1,6 @@
+import React, { useState } from 'react';
+import calculate from "../logic/calculate";
+
 const Calculator = () => (
   <div className="container flex">
     <div className="Output-bar flex button-container"> 0</div>
