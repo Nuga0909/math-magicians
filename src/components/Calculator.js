@@ -36,7 +36,7 @@ const Calculator = () => {
           <button type="button" name="7" onClick={clickEvent}>7</button>
           <button type="button" name="8" onClick={clickEvent}>8</button>
           <button type="button" name="9" onClick={clickEvent}>9</button>
-          <button type="button" name="x" onClick={clickEvent}>X</button>
+          <button type="button" name="x" onClick={clickEvent}>x</button>
         </div>
 
         <div className="col-3 button-container flex">
