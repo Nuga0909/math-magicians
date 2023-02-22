@@ -103,4 +103,3 @@ describe('Test basic computations', () => {
     expect(result).toHaveTextContent('0');
   });
 });
-
