@@ -24,6 +24,7 @@ const Calculator = () => {
         { operation }
         {' '}
         { next }
+        0
       </div>
       <div className="buttons">
         <div className="col-1 button-container flex">
