@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test rendering Test for page rendering 1`] = `
+Array [
+  <nav
+    className="NavItems flex"
+  >
+    <h3>
+      Math Magicians
+    </h3>
+    <ul>
+      <li>
+        <a
+          aria-current="page"
+          className="active"
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          className=""
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li>
+        <a
+          className=""
+          href="/quotes"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+  </nav>,
+  <div
+    className="Home"
+  >
+    <h3>
+      Math Magicians
+    </h3>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam nam est explicabo nesciunt labore odit ex pers piciatis tempore maxime voluptatem molestiae, earum exercitationem unde iste porro cupiditate pariatur minima nulla. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium facere, iure beatae eveniet illo veniam quisquam, alias nostrum earum perferendis ab fugit praesentium sed eum architecto blanditiis repellendus nesciunt saepe.
+    </p>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam nam est explicabo nesciunt labore odit ex pers piciatis tempore maxime voluptatem molestiae, earum exercitationem unde iste porro cupiditate pariatur minima nulla. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium facere, iure beatae eveniet illo veniam quisquam, alias nostrum earum perferendis ab fugit praesentium sed eum architecto blanditiis repellendus nesciunt saepe.
+    </p>
+  </div>,
+]
+`;
