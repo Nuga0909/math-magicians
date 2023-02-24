@@ -7,6 +7,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Install](#install)
@@ -35,6 +36,10 @@ This is a simple application made with react that is intended to be used for mat
 
 - **Build with React JS**
 - **Use JSX**
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://math-magicians-zi3f.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
